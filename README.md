@@ -1,2 +1,2 @@
 # josephconnelly.github.io
-Practice Website Repo
+Joseph Connelly's Practice Website Repo
